@@ -1,6 +1,7 @@
-# Healthcare Management System
+# Automated InvoiceGenerator
 
 A modern, responsive healthcare management system with invoice generation capabilities. Built with React, Node.js, Express, and MySQL.
+
 link: https://689f1b0c864d460008acd276--healthcaremanagementsystem2.netlify.app/
 
 ## Features
@@ -43,7 +44,7 @@ link: https://689f1b0c864d460008acd276--healthcaremanagementsystem2.netlify.app/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd HealthcareManagementSystem
+   cd Automated InvoiceGenerator
    ```
 
 2. **Install all dependencies**
@@ -110,7 +111,7 @@ npm run dev:frontend
 ## Project Structure
 
 ```
-HealthcareManagementSystem/
+Automated-InvoiceGenerator/
 ├── backend/
 │   ├── src/
 │   │   ├── models/           # Database models
@@ -151,11 +152,6 @@ HealthcareManagementSystem/
 5. **Download PDFs** of invoices for sharing or printing
 
 ## Key Improvements Made
-
-### Removed Email Functionality
-- Removed all nodemailer dependencies
-- Cleaned up email-related routes and components
-- Simplified invoice workflow
 
 ### Enhanced UI/UX
 - Modern glass-morphism design
