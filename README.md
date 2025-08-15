@@ -6,7 +6,7 @@ link: https://689f1b0c864d460008acd276--healthcaremanagementsystem2.netlify.app/
 
 ## Features
 
-- 🏥 **Modern Healthcare Interface** - Clean, professional design with healthcare branding
+- 🏥 **Automated Invoice Generator Interface** - Clean, professional design with healthcare branding
 - 📄 **Invoice Management** - Create, view, and download professional invoices
 - 👥 **Client Management** - Add and manage client information
 - 📊 **Dashboard Analytics** - View invoice statistics and financial summaries
