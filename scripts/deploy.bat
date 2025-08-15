@@ -1,8 +1,8 @@
 @echo off
-REM Healthcare Management System Deployment Script for Windows
+REM Automated Invoice Generator Deployment Script for Windows
 REM This script helps automate the deployment process
 
-echo 🏥 Healthcare Management System - Deployment Script
+echo 🏥 Automated InvoiceGenerator - Deployment Script
 echo ==================================================
 
 set "GREEN=[92m"
