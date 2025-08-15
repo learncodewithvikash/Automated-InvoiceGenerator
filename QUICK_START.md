@@ -1,6 +1,6 @@
 # 🚀 Quick Start Guide
 
-Get your Healthcare Management System up and running in minutes!
+Get your Automated InvoiceGenerator up and running in minutes!
 
 ## 📋 Prerequisites
 
@@ -35,7 +35,7 @@ This script will:
 
 ```bash
 # Add your GitHub repository
-git remote add origin https://github.com/YOUR_USERNAME/healthcare-management-system.git
+git remote add origin https://github.com/YOUR_USERNAME/Automated-InvoiceGenerator.git
 
 # Push to GitHub
 git push -u origin main
