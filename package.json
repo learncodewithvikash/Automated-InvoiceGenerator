@@ -1,7 +1,7 @@
 {
-  "name": "healthcare-management-system",
+  "name": "Automated InvoiceGenerator",
   "version": "1.0.0",
-  "description": "A modern healthcare management system with invoice generation",
+  "description": "Automated invoice generation",
   "main": "backend/src/server.js",
   "scripts": {
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
