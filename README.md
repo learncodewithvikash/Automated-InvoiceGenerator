@@ -2,7 +2,7 @@
 
 A modern, responsive healthcare management system with invoice generation capabilities. Built with React, Node.js, Express, and MySQL.
 
-link: https://689f1b0c864d460008acd276--healthcaremanagementsystem2.netlify.app/
+link: https://automated-invoice-generator1.netlify.app/
 
 ## Features
 
