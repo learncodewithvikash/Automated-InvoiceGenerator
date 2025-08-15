@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Healthcare Management System Deployment Script
+# Automated Invoice Generator Script
 # This script helps automate the deployment process
 
 set -e  # Exit on any error
 
-echo "🏥 Healthcare Management System - Deployment Script"
+echo "🏥 Automated InvoiceGenerator - Deployment Script"
 echo "=================================================="
 
 # Colors for output
